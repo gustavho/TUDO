@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+
+}
+#cabecario{
+    padding-left: 100px;
+    background-color: white;
+    margin-top: 20px;
+    width: 90%;
+    height: 40px; 
+    border: 1px solid black;
+}
+#cabecario a{
+    color: black;
+}
+
+#home{
+    
+    border: 1px solid black; 
+    width: 100px;
+    text-align:right; 
+    float: left;
+}
+#blog{
+     border: 1px solid black; 
+    width: 100px;
+    /* text-align: center; */
+    text-align: center;
+    float: left;
+}
+#blog a{
+    color: rgb(231, 146, 34);
+}
+
+#space{
+width: 100%;
+ /* border: 2px solid red;  */
+height: 150px;
+text-align: center;
+padding-top: 4%;
+background-color: rgb(41, 146, 206);
+
+}
+span{
+    color: white;
+    font-size: 50PX;
+     border: 1px solid black; 
+}
+#blog a:hover{
+    color: red;
+}
+#notici{
+    padding-left: 100px;
+    width: 90%;
+    height: 80%;
+    border: 1px solid black;
+    /* float: left; */
+}
+#thub{
+    width: 90%;
+    float: left;
+    height: 620px;
+    border: 2px solid red;
+}
+#thub img{
+    width: 300px;
+    margin: auto;
+}
+#thub a{
+    text-align: center;
+    
+}
